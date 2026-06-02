@@ -1,4 +1,8 @@
 # HS Code Finder
+# HS Code Finder
+
+🚀 Live Demo:
+https://ai-hs-code-finder.vercel.app
 
 AI-powered HS Code Finder that converts natural language product descriptions into ranked Harmonized System (HS) tariff code suggestions with confidence scoring.
 
